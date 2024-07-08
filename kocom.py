@@ -579,10 +579,10 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': '코콤 스마트 월패드',
+                'name': 'kocom smart wallpad',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
-                'mdl': '스마트 월패드',
+                'mdl': 'smart wallpad',
                 'sw': SW_VERSION
             }
         }
@@ -603,10 +603,10 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': '코콤 스마트 월패드',
+                'name': 'kocom smart wallpad',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
-                'mdl': '스마트 월패드',
+                'mdl': 'smart wallpad',
                 'sw': SW_VERSION
             }
         }
@@ -627,10 +627,10 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': '코콤 스마트 월패드',
+                'name': 'kocom smart wallpad',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
-                'mdl': '스마트 월패드',
+                'mdl': 'smart wallpad',
                 'sw': SW_VERSION
             }
         }
@@ -652,10 +652,10 @@ def publish_discovery(dev, sub=''):
                 'qos': 0,
                 'uniq_id': '{}_{}_{}{}'.format('kocom', 'wallpad', dev, num),
                 'device': {
-                    'name': '코콤 스마트 월패드',
+                    'name': 'kocom smart wallpad',
                     'ids': 'kocom_smart_wallpad',
                     'mf': 'KOCOM',
-                    'mdl': '스마트 월패드',
+                    'mdl': 'smart wallpad',
                     'sw': SW_VERSION
                 }
             }
@@ -686,10 +686,10 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}{}'.format('kocom', 'wallpad', dev, num),
             'device': {
-                'name': '코콤 스마트 월패드',
+                'name': 'kocom smart wallpad',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
-                'mdl': '스마트 월패드',
+                'mdl': 'smart wallpad',
                 'sw': SW_VERSION
             }
         }
@@ -705,10 +705,10 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': '코콤 스마트 월패드',
+                'name': 'kocom smart wallpad',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
-                'mdl': '스마트 월패드',
+                'mdl': 'smart wallpad',
                 'sw': SW_VERSION
             }
         }
