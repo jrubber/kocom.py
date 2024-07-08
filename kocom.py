@@ -579,7 +579,7 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': 'kocom smart wallpad',
+                'name': '',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
                 'mdl': 'smart wallpad',
@@ -603,7 +603,7 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': 'kocom smart wallpad',
+                'name': '',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
                 'mdl': 'smart wallpad',
@@ -627,7 +627,7 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': 'kocom smart wallpad',
+                'name': '',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
                 'mdl': 'smart wallpad',
@@ -652,7 +652,7 @@ def publish_discovery(dev, sub=''):
                 'qos': 0,
                 'uniq_id': '{}_{}_{}{}'.format('kocom', 'wallpad', dev, num),
                 'device': {
-                    'name': 'kocom smart wallpad',
+                    'name': '',
                     'ids': 'kocom_smart_wallpad',
                     'mf': 'KOCOM',
                     'mdl': 'smart wallpad',
@@ -686,7 +686,7 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}{}'.format('kocom', 'wallpad', dev, num),
             'device': {
-                'name': 'kocom smart wallpad',
+                'name': '',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
                 'mdl': 'smart wallpad',
@@ -705,7 +705,7 @@ def publish_discovery(dev, sub=''):
             'qos': 0,
             'uniq_id': '{}_{}_{}'.format('kocom', 'wallpad', dev),
             'device': {
-                'name': 'kocom smart wallpad',
+                'name': '',
                 'ids': 'kocom_smart_wallpad',
                 'mf': 'KOCOM',
                 'mdl': 'smart wallpad',
